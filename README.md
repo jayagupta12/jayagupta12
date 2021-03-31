@@ -41,8 +41,13 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br />
-[![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayagupta12&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jayagupta12&show_icons=true&hide_border=true" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayagupta12&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayagupta12&theme=radical)]
 
